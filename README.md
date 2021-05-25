@@ -4,15 +4,35 @@ It's a decentralized, blockchain-based voting poll system. It allows creation an
 
 ## How it works? 
 
-[TBD]
+It uses Ether to support the poll, the voters will pay the tx fee from this poll support. It means that the votes tx are paid by the poll organizer. It splits the poll-support into the required valid to vote (VTV) addresses. It keeps control of the poll on the organizer side. It uses Ethereum smart contracts as the engine. The polls will expire, at that point, the non-used tx token support will be returned to the organized. 
+
+This is an initial approach project. Looking for a POC in an initial state. If the POC is completed successfully and works as expected, the dapp will be released over an MIT license. Feel free to contribute via @GitHub.
+
+Join the discussion group in Telegram https://t.me/joinchat/e5ZMKKUTOL45ZWIx
 
 ## App Architecture
+
+[TBD]
+
+### Dependencies
+
+The application is built on *Flutter*, it uses *web3dart* package as Web3 provider. Flutter project enables desktop native flavors for corporate/government use cases. It requires Dart and Flutter.
+
+- https://flutter.dev
+- https://github.com/simolus3/web3dart
+
+### Instalation
+
+[TBD]
+
+### Development
 
 [TBD]
 
 ## Credits
 
 - Mateo Olaya (founder, developer)
+  Telegram channel https://t.me/joinchat/rVDgJa6iWA5hMTcx
 
   eth: [0xB14692dfCB874dE4f90733Cd76B994B298AC840B](https://www.etherchain.org/account/0xB14692dfCB874dE4f90733Cd76B994B298AC840B)
 
