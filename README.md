@@ -14,4 +14,5 @@ It's a decentralized, blockchain-based voting poll system. It allows creation an
 
 - Mateo Olaya (founder, developer)
 
-  eth: [0xcb2ca87c6779369d8583f87b8284c1adda8d45ac](https://www.etherchain.org/account/cb2ca87c6779369d8583f87b8284c1adda8d45ac)
+  eth: [0xB14692dfCB874dE4f90733Cd76B994B298AC840B](https://www.etherchain.org/account/0xB14692dfCB874dE4f90733Cd76B994B298AC840B)
+
