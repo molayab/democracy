@@ -21,6 +21,11 @@ The application is built on *Flutter*, it uses *web3dart* package as Web3 provid
 - https://flutter.dev
 - https://github.com/simolus3/web3dart
 
+#### Development Tools
+
+- https://github.com/trufflesuite/ganache
+- https://www.trufflesuite.com/truffle
+
 ### Instalation
 
 [TBD]
