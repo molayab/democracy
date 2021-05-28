@@ -12,6 +12,21 @@ Join the discussion group in Telegram https://t.me/joinchat/e5ZMKKUTOL45ZWIx
 
 ## App Architecture
 
+### Scenes
+
+#### Poll Registration
+
+This scene allow a you to register to a poll. It will require some information required by the organized and will share you publickey to the organizer. He/she can allow or deny your participation. The poll has a **public key** and a **public address** that will allow your to find the poll . Poll creator could distribute the address via multiple services (mail, sms, phone, secure notes, etc...).
+
+![POC Image](docs/resources/images/create_poll_poc_001.png)
+
+Open questions: 
+
+- Who pays the fee for the registation request?
+- How use a better identifier in a visual way?
+
+#### Poll Creation
+
 [TBD]
 
 ### Dependencies
