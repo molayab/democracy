@@ -35,6 +35,7 @@ The application is built on *Flutter*, it uses *web3dart* package as Web3 provid
 
 - https://flutter.dev
 - https://github.com/simolus3/web3dart
+- https://github.com/bcgit/pc-dart
 
 #### Development Tools
 
